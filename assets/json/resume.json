@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Wei-Tung Lin",
-    "label": "Computer Science Graduate Student",
+    "label": "Visitor Researcher at <a href='https://visualai.kaist.ac.kr'>KAIST Visual AI Group</a> | Computer Science M.S. Student at NTUST",
     "image": "",
     "email": "weitung8@gmail.com",
     "url": "https://weitunglin.github.io",
-    "summary": "Embrace Challenges, Cultivate Enthusiasm, Master New Technologies.",
+    "summary": "I am Wei-Tung Lin, a M.S. student at NTUST under the supervision of <a href='https://faculty.csie.ntust.edu.tw/~hua/biography.htm'>Prof. Kai-Lung Hua</a>. I'm currently an exchange student at KAIST, also vistor at <a href='https://visualai.kaist.ac.kr'>Visual AI Group</a>. I received my B.S degree in Computer Science at NTUST in Jan. 2023. Committed to the field of Computer Vision Deep Learning.",
     "location": {
       "city": "Taipei",
       "countryCode": "Taiwan"
@@ -17,18 +17,26 @@
       "authors": "Wei-Tung Lin, Yong-Xiang Lin, Jyun-Wei Chen, Kai-Lung Hua",
       "releaseDate": "2024-06-12",
       "url": "https://arxiv.org/abs/2406.08444",
-      "publisher": "arXiv preprint:arXiv:2406.08444",
+      "publisher": "Asian Conference on Computer Vision (ACCV), 2024",
       "summary": "Proposed a novel dual-level architecture for underwater image enhancement, which leverages state space models to enhance the performance of the model."
     }
   ],
   "work": [
+    {
+      "name": "Visual AI Group, KAIST",
+      "position": "Visitor Researcher",
+      "url": "https://visualai.kaist.ac.kr",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Working on 3D Shape Generation project."
+    },
     {
       "name": "Prof. Kai-Lung Hua Lab, National Taiwan University of Science and Technology",
       "position": "Research Assistant",
       "url": "https://faculty.csie.ntust.edu.tw/~hua/biography.htm",
       "startDate": "2021-09-01",
       "endDate": "",
-      "summary": "Worked on several NSTC projects and industry collaborations in deep learning, including computer vision, multi-modal learning, and autonomous driving.",
+      "summary": "Work on several NSTC projects and industry collaborations in deep learning, including computer vision, multi-modal learning, and autonomous driving.",
       "highlights": [
         "Designed and enhanced Multi-modal Perception Module for Autonomous Vehicles",
         "Developed deep learning models for Event Cameras and Motion Vector Sensors",
