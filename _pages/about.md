@@ -6,7 +6,7 @@ subtitle: â€œEmbrace Challenges, Cultivate Enthusiasm, Master New Technologies.â
 
 profile:
   align: right
-  image: me.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
