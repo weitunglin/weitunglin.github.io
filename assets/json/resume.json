@@ -1,10 +1,11 @@
 {
   "basics": {
     "name": "Wei-Tung Lin",
-    "label": "Visitor Researcher at <a href='https://visualai.kaist.ac.kr'>KAIST Visual AI Group</a> | Computer Science M.S. Student at NTUST",
+    "label": "Visiting Researcher at <a href='https://visualai.kaist.ac.kr'>KAIST Visual AI Group</a> | Computer Science M.S. Student at NTUST",
     "image": "",
     "email": "weitung8@gmail.com",
-    "url": "https://weitunglin.github.io",
+    "GitHub": "https://github.com/weitunglin",
+    "website": "https://weitunglin.github.io",
     "summary": "I am Wei-Tung Lin, a M.S. student at NTUST under the supervision of <a href='https://faculty.csie.ntust.edu.tw/~hua/biography.htm'>Prof. Kai-Lung Hua</a>. I'm currently an exchange student at KAIST, also vistor at <a href='https://visualai.kaist.ac.kr'>Visual AI Group</a>. I received my B.S degree in Computer Science at NTUST in Jan. 2023. Committed to the field of Computer Vision Deep Learning.",
     "location": {
       "city": "Taipei",
@@ -24,7 +25,7 @@
   "work": [
     {
       "name": "Visual AI Group, KAIST",
-      "position": "Visitor Researcher",
+      "position": "Visiting Researcher",
       "url": "https://visualai.kaist.ac.kr",
       "startDate": "2024-09-01",
       "endDate": "",

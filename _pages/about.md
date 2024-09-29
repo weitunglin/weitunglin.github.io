@@ -14,4 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Second year M.S. student at NTUST under the supervision of <a href="https://faculty.csie.ntust.edu.tw/~hua/biography.htm">Prof. Kai-Lung Hua</a>. I'm currently an exchange student at KAIST, also visitor researcher at <a href="https://visualai.kaist.ac.kr">Visual AI Group</a>. I received my B.S degree in Computer Science at NTUST in Jan. 2023. Committed to the field of Computer Vision Deep Learning. For more detail, refer to my <a href="https://weitunglin.github.io/assets/pdf/CV_Wei_Tung_Lin.pdf">CV</a>.
+Email: weitung8@gmail.com
+GitHub: https://github.com/weitunglin
+
+Second year M.S. student at NTUST under the supervision of <a href="https://faculty.csie.ntust.edu.tw/~hua/biography.htm">Prof. Kai-Lung Hua</a>. I'm currently an exchange student at KAIST, also visiting researcher at <a href="https://visualai.kaist.ac.kr">Visual AI Group</a>. I received my B.S degree in Computer Science at NTUST in Jan. 2023. Committed to the field of Computer Vision Deep Learning. For more detail, please refer to my <a href="https://weitunglin.github.io/assets/pdf/CV_Wei_Tung_Lin.pdf">CV</a>.
