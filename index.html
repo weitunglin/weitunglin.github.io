@@ -18,6 +18,15 @@
             }
         }
     </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CZ4CDYVZ1X"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-CZ4CDYVZ1X');
+    </script>
 </head>
 <body class="bg-gray-50 text-gray-900">
     <!-- Navigation -->
@@ -55,7 +64,7 @@
             <div class="flex flex-col lg:flex-row items-center gap-12">
                 <div class="flex-1 text-center lg:text-left order-2 lg:order-1">
                     <h1 class="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-                        Hi, I'm <span class="text-primary">Wei-Tung Lin</span>
+                        Hi, I'm <span class="text-primary">Wei-Tung Lin (Allen)</span>
                     </h1>
                     <p class="text-xl text-gray-600 mb-6">
                         AI Researcher & Software Engineer
@@ -70,16 +79,19 @@
                     </div>
                     <div class="flex justify-center lg:justify-start space-x-4">
                         <a href="mailto:weitung8@gmail.com" 
-                           class="bg-primary text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition-colors">
-                            <i class="fas fa-envelope mr-2"></i>Email
+                            class="flex flex-col items-center bg-primary text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition-colors">
+                            <i class="fas fa-envelope mb-1"></i>
+                            <span>Email</span>
                         </a>
                         <a href="https://github.com/weitunglin" target="_blank"
-                           class="bg-gray-800 text-white px-6 py-3 rounded-lg hover:bg-gray-700 transition-colors">
-                            <i class="fab fa-github mr-2"></i>GitHub
+                            class="flex flex-col items-center bg-gray-800 text-white px-6 py-3 rounded-lg hover:bg-gray-700 transition-colors">
+                            <i class="fab fa-github mb-1"></i>
+                            <span>GitHub</span>
                         </a>
                         <a href="https://www.linkedin.com/in/wei-tung-lin-25864a20b/" target="_blank"
-                           class="bg-gray-800 text-white px-6 py-3 rounded-lg hover:bg-gray-700 transition-colors">
-                            <i class="fab fa-linkedin mr-2"></i>LinkedIn
+                            class="flex flex-col items-center bg-gray-800 text-white px-6 py-3 rounded-lg hover:bg-gray-700 transition-colors">
+                            <i class="fab fa-linkedin mb-1"></i>
+                            <span>LinkedIn</span>
                         </a>
                     </div>
                 </div>
